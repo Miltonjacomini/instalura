@@ -30,8 +30,8 @@ class FotoInfo extends Component {
                 ,
                 <a href="#">
                   rafael_rollo
-                </a> 
-
+                </a>
+                
                  curtiram
 
               </div>
